@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">convertStringToBigDecimal</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsNClN0cmlu
+ZyBpblN0cmluZyA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVsaW5lQ3Vyc29yLCAiaW5TdHJp
+bmciICk7DQpwaXBlbGluZUN1cnNvci5kZXN0cm95KCk7DQovLyBwaXBlbGluZQ0KSURhdGFDdXJz
+b3IgcGlwZWxpbmVDdXJzb3JfMSA9IHBpcGVsaW5lLmdldEN1cnNvcigpOw0KQmlnRGVjaW1hbCBi
+aWdEZWNpbWFsID0gbmV3IEJpZ0RlY2ltYWwoaW5TdHJpbmcpOw0KDQogDQpJRGF0YVV0aWwucHV0
+KCBwaXBlbGluZUN1cnNvcl8xLCAib3V0cHV0IiwgYmlnRGVjaW1hbC50b0JpZ0RlY2ltYWwoKSAp
+Ow0KcGlwZWxpbmVDdXJzb3JfMS5kZXN0cm95KCk7</value>
+</Values>
